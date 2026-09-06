@@ -1,0 +1,44 @@
+# Operating System & IDE
+.DS_Store
+**/.DS_Store
+.env
+.vscode/
+.idea/
+
+# Temporary / Preview Artifacts
+*.png
+*.tmp
+
+# LaTeX legacy auxiliary build files (if any remain)
+*.aux
+*.bcf
+*.bbl
+*.blg
+*.log
+*.out
+*.run.xml
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.xdv
+*.nav
+*.snm
+*.vrb
+*.upa
+*.upb
+
+# Python & UV
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
