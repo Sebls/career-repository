@@ -7,6 +7,7 @@
 
 # Temporary / Preview Artifacts
 *.png
+!assets/*.png
 *.tmp
 
 # LaTeX legacy auxiliary build files (if any remain)

@@ -4,6 +4,12 @@ Centralized repository template and verification framework for managing canonica
 
 ---
 
+## Output CV Preview
+
+![English CV Preview](assets/cv_en_preview.png)
+
+---
+
 ## Repository Structure
 
 ```text
